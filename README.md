@@ -1,4 +1,4 @@
-<h2 align="center">Flightplans</h1>
+<h1 align="center">Flightplans</h1>
 
 <h3 align="center">A smooth ride from <span style="color: #1277eb">Idea</span> to <span style="color: #1277eb">Production</span></h3>
 
